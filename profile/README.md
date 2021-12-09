@@ -13,6 +13,10 @@
 - [Pedro Brito](https://github.com/pedroisb)
 - [Silvano Araujo](https://github.com/Silvanoeng) 
 
+## Objetivo:
+
+- Desenvolver um protótipo de e-commerce de tema livre.
+
 ## Requisitos Back-end:
 
 1. Você deverá fazer o back-end de nosso e-commerce em Java com o Framework Spring no modelo MVC.
@@ -61,3 +65,6 @@
 1. A API deverá ser implementada e disponibilizada por meio de um ambiente de cloud computing EC2 da Amazon Web Services.
 2. O front-end deverá ser hospedado em um ambiente Vercel.
 
+## Resultados:
+
+- Criação de um protótipo de e-commerce de cosméticos importados, nomeado de "Amar e Cuidar | Cosméticos" - https://amar-e-cuidar.vercel.app
