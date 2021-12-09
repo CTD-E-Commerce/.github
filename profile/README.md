@@ -13,7 +13,7 @@
 - [Pedro Brito](https://github.com/pedroisb)
 - [Silvano Araujo](https://github.com/Silvanoeng) 
 
-### Requisitos Back-end:
+## Requisitos Back-end:
 
 1. Você deverá fazer o back-end de nosso e-commerce em Java com o Framework Spring no modelo MVC.
 2. O banco de dados deverá ser o H2.
@@ -42,7 +42,7 @@
 ![alt text](https://github.com/CTD-E-Commerce/.github/blob/main/profile/api5.png?raw=true)
 
 
-### Requisitos Front-end:
+## Requisitos Front-end:
 
 1. Todo o site deve estar responsivo.
 2. O entregável será uma página em HTML5, SASS, React-Bootstrap e React.
@@ -56,7 +56,7 @@
 10. Não se esqueça de colocar todos os membros da equipe na página de sobre nós.
 
 
-### Requisitos Infraestrutura:
+## Requisitos Infraestrutura:
 
 1. A API deverá ser implementada e disponibilizada por meio de um ambiente de cloud computing EC2 da Amazon Web Services.
 2. O front-end deverá ser hospedado em um ambiente Vercel.
