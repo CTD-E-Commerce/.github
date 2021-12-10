@@ -67,4 +67,26 @@
 
 ## Resultados:
 
-- Criação de um protótipo de e-commerce de cosméticos importados, nomeado de "Amar e Cuidar | Cosméticos" - https://amar-e-cuidar.vercel.app
+- Criação de um protótipo de e-commerce de cosméticos importados, nomeado de "Amar e Cuidar | Cosméticos"
+**Link principal:**
+
+**[Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar.vercel.app/)**
+
+**Links alternativos:**
+
+**[Amar e Cuidar | Cosméticos - Heroku](https://ctd-ecommerce-front.herokuapp.com/)** 
+
+**[Amar e Cuidar | Cosméticos - CloudFlare](https://ctd-ecommerce-front.pages.dev/)**
+
+
+- Criação de uma API para requisições do e-commerce "Amar e Cuidar | Cosméticos"
+** [Link Documentação da API](https://notch-tiglon-21b.notion.site/Amar-e-Cuidar-Cosm-ticos-ba030697b4014482acbc9c077bc6eded)**
+
+- Criação de um bucket no AWS S3 para armazenar as imagens dos produtos e imagens utilizadas no site.
+
+- Criação de um deploy no Heroku para implantar a API na nuvem.
+- 
+- Criação de um deploy na AWS Elastic Beanstalk para implantar a API na Nuvem AWS.
+
+- Criação de um AWS RDS para implantar um banco de dados relacional MySQL na Nuvem AWS.
+
