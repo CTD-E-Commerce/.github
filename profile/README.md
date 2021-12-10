@@ -71,18 +71,18 @@
 
 ### Link principal:
 
-### [Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar.vercel.app/)
+#### [Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar.vercel.app/)
 
 #### Links alternativos:
 
-### [Amar e Cuidar | Cosméticos - Heroku](https://ctd-ecommerce-front.herokuapp.com/)
+#### [Amar e Cuidar | Cosméticos - Heroku](https://ctd-ecommerce-front.herokuapp.com/)
 
-### [Amar e Cuidar | Cosméticos - CloudFlare](https://ctd-ecommerce-front.pages.dev/)
+#### [Amar e Cuidar | Cosméticos - CloudFlare](https://ctd-ecommerce-front.pages.dev/)
 
 
 - Criação de uma API para requisições do e-commerce "Amar e Cuidar | Cosméticos"
 - 
-### [Link Documentação da API](https://notch-tiglon-21b.notion.site/Amar-e-Cuidar-Cosm-ticos-ba030697b4014482acbc9c077bc6eded)
+#### [Link Documentação da API](https://notch-tiglon-21b.notion.site/Amar-e-Cuidar-Cosm-ticos-ba030697b4014482acbc9c077bc6eded)
 
 - Criação de um bucket no AWS S3 para armazenar as imagens dos produtos e imagens utilizadas no site.
 
