@@ -69,20 +69,7 @@
 
 - Criação de um protótipo de e-commerce de cosméticos importados, nomeado de "Amar e Cuidar | Cosméticos"
 
-### Link principal:
-
-#### [Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar.vercel.app/)
-
-#### Links alternativos:
-
-#### [Amar e Cuidar | Cosméticos - Heroku](https://ctd-ecommerce-front.herokuapp.com/)
-
-#### [Amar e Cuidar | Cosméticos - CloudFlare](https://ctd-ecommerce-front.pages.dev/)
-
-
 - Criação de uma API para requisições do e-commerce "Amar e Cuidar | Cosméticos"
-- 
-#### [Link Documentação da API](https://notch-tiglon-21b.notion.site/Amar-e-Cuidar-Cosm-ticos-ba030697b4014482acbc9c077bc6eded)
 
 - Criação de um bucket no AWS S3 para armazenar as imagens dos produtos e imagens utilizadas no site.
 
@@ -92,3 +79,23 @@
 
 - Criação de um AWS RDS para implantar um banco de dados relacional MySQL na Nuvem AWS.
 
+## Links:
+
+### Link principal site:
+
+#### [Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar.vercel.app/)
+
+### Links alternativos site:
+
+#### [Amar e Cuidar | Cosméticos - Heroku](https://ctd-ecommerce-front.herokuapp.com/)
+
+#### [Amar e Cuidar | Cosméticos - CloudFlare](https://ctd-ecommerce-front.pages.dev/)
+
+
+### Links Back-End:
+
+#### [Link Documentação da API](https://notch-tiglon-21b.notion.site/Amar-e-Cuidar-Cosm-ticos-ba030697b4014482acbc9c077bc6eded)
+
+#### [Link da API no Heroku](https://ctd-ecommerce-api.herokuapp.com)
+
+#### [Linkda API no AWS Elastic Beanstalk](http://turmadoisgrupodois-env.eba-e8scz79c.us-east-1.elasticbeanstalk.com)
