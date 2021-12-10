@@ -67,25 +67,25 @@
 
 ## Resultados:
 
-- Criação de um protótipo de e-commerce de cosméticos importados, nomeado de "Amar e Cuidar | Cosméticos"
+- Desenvolvimento de um protótipo de e-commerce de cosméticos importados, nomeado de "Amar e Cuidar | Cosméticos"
 
-- Criação de uma API para requisições do e-commerce "Amar e Cuidar | Cosméticos"
+- Desenvolvimento de uma API para requisições do e-commerce "Amar e Cuidar | Cosméticos"
 
 - Criação de um bucket no AWS S3 para armazenar as imagens dos produtos e imagens utilizadas no site.
 
-- Criação de um deploy no Heroku para implantar a API na nuvem.
- 
-- Criação de um deploy na AWS Elastic Beanstalk para implantar a API na Nuvem AWS.
+- Realização de um deploy no Heroku para implantar a API na nuvem.
 
-- Criação de um AWS RDS para implantar um banco de dados relacional MySQL na Nuvem AWS.
+- Realização de um deploy na AWS Elastic Beanstalk para implantar a API na Nuvem AWS.
+
+- Criação de uma instância de banco de dados do AWS RDS para implantar um banco de dados relacional MySQL na Nuvem AWS.
 
 ## Links:
 
-### Link principal site:
+### Link principal do site:
 
 #### [Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar.vercel.app/)
 
-### Links alternativos site:
+### Links alternativos do site:
 
 #### [Amar e Cuidar | Cosméticos - Heroku](https://ctd-ecommerce-front.herokuapp.com/)
 
@@ -98,4 +98,4 @@
 
 #### [Link da API no Heroku](https://ctd-ecommerce-api.herokuapp.com)
 
-#### [Linkda API no AWS Elastic Beanstalk](http://turmadoisgrupodois-env.eba-e8scz79c.us-east-1.elasticbeanstalk.com)
+#### [Link da API no AWS Elastic Beanstalk](http://turmadoisgrupodois-env.eba-e8scz79c.us-east-1.elasticbeanstalk.com)
