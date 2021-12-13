@@ -83,7 +83,7 @@
 
 ### Link principal do site:
 
-#### [Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar.vercel.app/)
+#### [Amar e Cuidar | Cosméticos - Vercel](https://amar-e-cuidar-two.vercel.app/)
 
 ### Links alternativos do site:
 
